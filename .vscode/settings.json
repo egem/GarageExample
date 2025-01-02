@@ -1,0 +1,9 @@
+{
+  "files.associations": {
+    "ios": "cpp",
+    "exception": "cpp",
+    "sstream": "cpp",
+    "__config": "cpp",
+    "iosfwd": "cpp"
+  }
+}

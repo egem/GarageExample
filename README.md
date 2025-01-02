@@ -1,4 +1,4 @@
-This is the simple C++ project which is created to practice. The flat folder structure preferred therefore all the header and source files are located on the root folder of the project for the sake of simplicity. Basic cmake file is used in order to only build the project. Please follow the steps below if you want to build and run the project.
+This is the simple C++ project which was created to practice. The flat folder structure preferred therefore all the header and source files are located on the root folder of the project for the sake of simplicity. Basic cmake file was used in order to build the project. Please follow the steps below if you want to build and run the project.
 
 ### Building the project
 
